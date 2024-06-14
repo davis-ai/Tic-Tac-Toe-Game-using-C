@@ -20,3 +20,11 @@ The game is played between two players, X and O. The game board is a 3x3 matrix,
 - The game continues until one player has three in a row, column, or diagonal, or until all squares are filled and no player has won.
 - The game then displays the final board and announces the winner, or that the game is a draw
 
+### To Do's
+- Implement AI for single player mode (MiniMax Algorithm).
+- Add more features like saving and loading games, displaying game history, etc.
+
+
+
+
+
