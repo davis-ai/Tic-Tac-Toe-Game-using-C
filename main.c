@@ -59,7 +59,7 @@ int main() {
 
         printf("\nDo you Want to play Again? (Y/N) : ");
         scanf("%c");
-        scanf("%c", &replay);
+        scanf(" %c", &replay);
         replay = toupper( replay );
         
     } while ( replay == 'Y' );
